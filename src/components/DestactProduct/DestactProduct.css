@@ -1,6 +1,6 @@
 .product-card {
   width: 320px;
-  background: #0f0f11;
+  background: #1C2128;
   border-radius: 12px;
   overflow: hidden;
   position: relative;
@@ -25,7 +25,7 @@
   object-position: center 30%;
 }
 
-/* Capa de gradiente oscuro en la parte inferior de la imagen */
+
 .product-image-container::after {
   content: '';
   position: absolute;
@@ -54,7 +54,7 @@
 
 .rating {
   position: absolute;
-  top: 20px;
+  top: 10px;
   right: 24px;
   background: rgba(0, 0, 0, 0.6);
   backdrop-filter: blur(4px);
@@ -67,7 +67,7 @@
 }
 
 .star {
-  color: #ff3d71; /* rojo característico Logitech */
+  color: #EAB308;
 }
 
 .rating-value {
@@ -76,23 +76,23 @@
 }
 
 .product-name {
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 600;
   margin: 8px 0 12px;
   color: #ffffff;
 }
 
 .price {
-  font-size: 28px;
+  font-size: 24px;
   font-weight: 700;
-  color: #ffffff;
+  color: #2B6CEE;
   margin-bottom: 24px;
 }
 
 .add-to-cart-btn {
   width: 100%;
   padding: 14px;
-  background: #ff3d71;
+  background: #161B22;
   color: white;
   border: none;
   border-radius: 8px;
