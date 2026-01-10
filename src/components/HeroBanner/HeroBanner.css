@@ -1,0 +1,25 @@
+.custom-primary-btn {
+    background-color: #2979ff;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 24px;
+    font-weight: 600;
+}
+
+.custom-primary-btn:hover {
+    background-color: #1f68e5;
+}
+
+.custom-secondary-btn {
+    background-color: #2b2b2b;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 24px;
+
+    font-weight: 600;
+}
+
+.custom-secondary-btn:hover {
+    background-color: #1f1f1f;
+}

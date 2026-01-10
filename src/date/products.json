@@ -1,0 +1,407 @@
+[
+  {
+    "id": 8,
+    "categoria": "auriculares",
+    "marca": "Sony",
+    "nombre": "Sony WH-1000XM5",
+    "anio_lanzamiento": 2023,
+    "precio_real": 399,
+    "moneda": "USD",
+    "enlace": "https://www.sony.com/",
+    "descripcion": "Los Sony WH-1000XM5 son auriculares over-ear inalámbricos líderes en cancelación activa de ruido (ANC). Ofrecen sonido premium con soporte LDAC, comodidad para uso prolongado, hasta 30 horas de batería y funciones inteligentes como Speak-to-Chat. Siguen siendo una referencia en 2026 para quienes buscan la mejor calidad de audio y aislamiento.",
+    "especificaciones": {
+      "tipo": "Over-ear, inalámbricos",
+      "cancelacion_ruido": "ANC líder con 8 micrófonos + procesador V1 + QN1",
+      "drivers": "30mm dynamic, neodymio",
+      "frecuencia": "4Hz-40kHz (cable), 20Hz-20kHz/40kHz (Bluetooth LDAC)",
+      "conectividad": "Bluetooth 5.2, LDAC, AAC, SBC",
+      "bateria": "Hasta 30h ANC on / 40h off, carga rápida 3h con 3min",
+      "peso": "250g",
+      "nota": "DSEE Extreme, Speak-to-Chat, multipunto"
+    },
+    "imagen": "/WH-XB910N.jpg",
+    "subimagenes": [
+      "https://sony.scene7.com/is/image/sonyglobalsolutions/wh1000xm5-lifestyle-01",
+      "https://sony.scene7.com/is/image/sonyglobalsolutions/wh1000xm5-case-detail",
+      "https://sony.scene7.com/is/image/sonyglobalsolutions/wh1000xm5-earpad-comfort"
+    ],
+    "stock": 4,
+    "rating": 4.8
+  },
+  {
+    "id": 11,
+    "categoria": "laptop",
+    "marca": "Apple",
+    "nombre": "MacBook Pro 16\"",
+    "anio_lanzamiento": 2023,
+    "precio_real": 2499,
+    "moneda": "USD",
+    "enlace": "https://www.apple.com/macbook-pro/",
+    "descripcion": "El MacBook Pro de 16\" es la laptop profesional por excelencia de Apple. Con chips de la serie M (actualmente M4/M5 en 2025-2026), pantalla Liquid Retina XDR espectacular, excelente duración de batería y rendimiento térmico superior. Ideal para edición de video, 3D, desarrollo y tareas creativas de alto nivel.",
+    "especificaciones": {
+      "chip": "M4 Pro (14-core CPU, 20-core GPU) o M4 Max (hasta 16-core CPU, 40-core GPU)",
+      "pantalla": "16.2\" Liquid Retina XDR mini-LED, 3456x2234, ProMotion 120Hz, hasta 1600 nits HDR",
+      "RAM": "24GB / 36GB / 48GB / 64GB / 128GB unified",
+      "almacenamiento": "512GB a 8TB SSD",
+      "bateria": "Hasta 24h video / 17h web",
+      "puertos": "3x Thunderbolt 5, HDMI 2.1, SDXC, MagSafe 3, jack 3.5mm",
+      "nota": "Actualizado a M4/M5 en 2024-2025, nano-texture opcional"
+    },
+    "imagen": "https://bioscomputacion.com.ar/img/Public/1161/20590-producto-img-macbook-pro-retina-14-inch-8.jpg",
+    "subimagenes": [
+      "https://www.apple.com/v/macbook-pro/aj/images/overview/display/display_hero__db5bm0437yau_large.jpg",
+      "https://www.apple.com/v/macbook-pro/aj/images/overview/ports/ports_side__c5e93z437yau_large.jpg",
+      "https://www.apple.com/v/macbook-pro/aj/images/overview/performance/chip_m4_max__d4g88z437yau_large.jpg"
+    ],
+    "stock": 18,
+    "rating": 4.9
+  },
+  {
+    "id": 1,
+    "categoria": "teclados_gamer",
+    "marca": "Razer",
+    "nombre": "Razer Huntsman V3 Pro TKL",
+    "anio_lanzamiento": 2025,
+    "precio_real": 327783,
+    "moneda": "USD",
+    "enlace": "htps://www.mercadolibre.com.ar/teclado-razer-huntsman-v3-pro-tkl/p/xxxxxx",
+    "descripcion": "El teclado  es un teclado mecánico gamer de formato tenkeyless diseñado para esports y gaming competitivo, con switches ópticos analógicos de alta respuesta, RGB personalizable y una construcción robusta orientada a jugadores que buscan rendimiento profesional. Ofrece activación rápida, iluminación Razer Chroma y compatibilidad con Synapse para personalizar perfiles y macros.",
+    "especificaciones": {
+      "tipo": "Teclado mecánico gamer TKL",
+      "switches": "Ópticos analógicos Razer (Gen-2)",
+      "retroiluminacion": "Razer Chroma RGB",
+      "conectividad": "Cable USB-C",
+      "anti_ghosting": "100% anti-ghosting",
+      "vida_util_switches": "Hasta 100 millones de pulsaciones",
+      "software": "Razer Synapse compatible"
+    },
+    "imagen": "https://assets2.razerzone.com/images/pnx.assets/ce8efb94452a0b8f9d2e8dcebc9bab5c/razer-huntsman-v3-pro-tkl-ogimage-1200x630-v2.webp",
+    "subimagenes": [
+      "https://example.com/razer_huntsman_v3_pro_tkl_1.jpg",
+      "https://example.com/razer_huntsman_v3_pro_tkl_2.jpg",
+      "https://example.com/razer_huntsman_v3_pro_tkl_3.jpg"
+    ],
+    "stock": 15,
+    "rating": 4.7
+  },
+  {
+    "id": 2,
+    "categoria": "mouses_gamer",
+    "marca": "Logitech",
+    "nombre": "Logitech G502 HERO Gaming Mouse",
+    "anio_lanzamiento": 2020,
+    "precio_real": 69,
+    "moneda": "USD",
+    "enlace": "https://www.bhphotovideo.com/c/product/1442781-REG/logitech_910005469_g502_hero_gaming_mouse.html",
+    "descripcion": "El Logitech G502 HERO es un mouse gamer con cable de alto rendimiento, diseñado para jugadores que buscan precisión y personalización. Equipado con el sensor óptico HERO 25K de hasta 25,600 DPI, 11 botones programables, sistema de pesos ajustables y retroiluminación RGB, ofrece gran control en juegos competitivos y multitarea. Ideal para FPS, MOBA y otros géneros exigentes.",
+    "especificaciones": {
+      "sensor": "HERO 25K (óptico)",
+      "dpi": "100 – 25,600",
+      "botones_programables": 11,
+      "peso": "≈121 g (con sistema de pesos)",
+      "retroiluminacion": "RGB LIGHTSYNC",
+      "conectividad": "Cable USB-A",
+      "frecuencia_respuesta": "1000 Hz"
+    },
+    "imagen": "/Logitech503.png",
+    "subimagenes": [
+      "https://images.bhphotovideo.com/images/images500x500/logitech_910005469_g502_hero_gaming_mouse_2.jpg",
+      "https://images.bhphotovideo.com/images/images500x500/logitech_910005469_g502_hero_gaming_mouse_3.jpg",
+      "https://images.bhphotovideo.com/images/images500x500/logitech_910005469_g502_hero_gaming_mouse_4.jpg"
+    ],
+    "stock": 20,
+    "rating": 4.6
+  },
+  {
+    "id": 1,
+    "categoria": "realidad_mixta",
+    "marca": "Apple",
+    "nombre": "Apple Vision Pro",
+    "anio_lanzamiento": 2024,
+    "precio_real": 3499,
+    "moneda": "USD",
+    "enlace": "https://www.apple.com/apple-vision-pro/",
+    "descripcion": "El Apple Vision Pro es el primer dispositivo de computación espacial premium de Apple. Ofrece una experiencia inmersiva de realidad mixta con pantallas micro-OLED de ultra alta resolución, seguimiento preciso de ojos y manos, y un potente dúo de chips M2 + R1. Ideal para productividad, entretenimiento y experiencias 3D innovadoras, aunque su alto precio y peso lo posicionan como producto pro.",
+    "especificaciones": {
+      "tipo": "Realidad mixta premium (spatial computing)",
+      "chip": "Apple M2 (8-core CPU, 10-core GPU) + R1 (para procesamiento sensorial en 12ms)",
+      "display": "Dual Micro-OLED, 23 millones de píxeles totales (≈3660x3200 por ojo), 7.5-micron pixel pitch, 92% DCI-P3, hasta 100Hz (o 120Hz en modelos M5 actualizados), EyeSight externo",
+      "almacenamiento": "256GB / 512GB / 1TB",
+      "memoria": "16GB unified",
+      "tracking": "Eye tracking (4 cámaras internas), hand tracking (sin controllers), 12 cámaras externas + 5 sensores",
+      "audio": "Spatial Audio con ray tracing, 6 micrófonos",
+      "bateria": "Externa (2-2.5 horas uso general)",
+      "peso": "≈600-650g (varía con bandas)",
+      "OS": "visionOS"
+    },
+    "imagen": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/vision-pro-gallery-measure-hero-202510_PF1_FMT_WHH?wid=2560&hei=1440&fmt=p-jpg&qlt=95&.v=eDVwb1h3eE5DQmx2RnhFenBtbjB4eDdJeFpaUjNiUnhGaHFXYnpFSWxJcFBxeTFqS1loTGdZckx5N3NMbDdTdTFHNjlCSGljd3lKZmVzelVwRHRBMENrakpGNnhCWWJJa3RUVzhiczBkd2o3RXFyTVFEOTJ4ZFBLaENDYmZTYVZvc01laTlVR29XRTc1SnpNWnZ4OVlR",
+    "subimagenes": [
+      "https://www.apple.com/v/apple-vision-pro/c/images/overview/design/light_seal__fo9u66u8u7ue_large.jpg",
+      "https://www.apple.com/v/apple-vision-pro/c/images/overview/design/head_band__eio9sc5gu7ue_large.jpg",
+      "https://www.apple.com/v/apple-vision-pro/c/images/overview/hero/apple_vision_pro_glass__fo9u66u8u7ue_large.jpg"
+    ],
+    "stock": 4,
+    "rating": 4.5
+  },
+  {
+    "id": 29,
+    "categoria": "smartphone",
+    "marca": "Apple",
+    "nombre": "iPhone 17",
+    "anio_lanzamiento": 2025,
+    "precio_real": 799,
+    "moneda": "USD",
+    "enlace": "https://www.apple.com/iphone-17/",
+    "descripcion": "El iPhone 17 es el modelo base de la generación 2025 de Apple. Cuenta con un diseño refinado, chip A19 ultra eficiente, pantalla Super Retina XDR de 6.3\" con ProMotion 120Hz y un sistema de cámaras mejorado con IA avanzada. Perfecto para usuarios que buscan el equilibrio ideal entre rendimiento diario, fotografía y duración de batería.",
+    "especificaciones": {
+      "chip": "Apple A19 (con soporte completo para Apple Intelligence)",
+      "pantalla": "6.3\" Super Retina XDR OLED, ProMotion 120Hz, Always-On, Ceramic Shield mejorado",
+      "camara": "Dual 48MP (principal Fusion + ultra-wide), frontal 18MP Center Stage",
+      "almacenamiento": "256GB base (hasta 1TB)",
+      "RAM": "8GB",
+      "bateria": "Mejorada (hasta 8 horas más que iPhone 16)",
+      "carga": "MagSafe 25W, Qi2, USB-C",
+      "OS": "iOS 26",
+      "nota": "Lanzado septiembre 2025, incluye Camera Control y Action Button personalizable"
+    },
+    "imagen": "https://images.macrumors.com/t/pcFFdS4vr2FNj067Dc-tlrKKPl8=/3840x/article-new/2025/02/iphone-17-pro-asherdipps.jpg",
+    "subimagenes": [
+      "https://cdn.mos.cms.futurecdn.net/iphone17-leak-colors.jpg",
+      "https://www.apple.com/newsroom/images/2024/09/apple-introduces-iphone-16-lineup/article/Apple-iPhone-16-camera-control-240909_inline.jpg.large.jpg",
+      "https://techradar.com/wp-content/uploads/sites/iphone-17-slim-render.jpg"
+    ],
+    "stock": 1,
+    "rating": 4.7
+  },
+  {
+    "id": 30,
+    "categoria": "smartphone",
+    "marca": "Samsung",
+    "nombre": "Galaxy S25 Ultra",
+    "anio_lanzamiento": 2025,
+    "precio_real": 1299,
+    "moneda": "USD",
+    "enlace": "https://www.samsung.com/galaxy-s25-ultra/",
+    "descripcion": "El Galaxy S25 Ultra es el flagship premium de Samsung para 2025. Destaca por su potente chip Snapdragon 8 Elite, pantalla Dynamic AMOLED 2X de 6.9\" QHD+ con 120Hz, sistema de cámaras líder con sensor principal de 200MP y soporte para S Pen. Incluye funciones avanzadas de IA y es ideal para fotografía profesional, productividad y uso intensivo.",
+    "especificaciones": {
+      "chip": "Snapdragon 8 Elite for Galaxy (octa-core, hasta 4.47GHz)",
+      "pantalla": "6.9\" Dynamic AMOLED 2X QHD+ (3120x1440), 120Hz LTPO, HDR10+, Gorilla Armor 2",
+      "camara": "Cuádruple: 200MP wide (OIS), 50MP ultra-wide, 50MP periscope tele (5x), 10MP tele (3x), frontal 12MP",
+      "RAM": "12GB / 16GB",
+      "almacenamiento": "256GB / 512GB / 1TB (UFS 4.0)",
+      "bateria": "5000mAh, carga rápida 45W, inalámbrica 15W",
+      "S_Pen": "Incluido (sin Bluetooth)",
+      "OS": "Android 15 + One UI 7 (7 años de actualizaciones)",
+      "nota": "Lanzado febrero 2025, top en cámara, IA y resistencia (IP68)"
+    },
+    "imagen": "https://media.flixcar.com/webp/synd-asset/Samsung-290665574-ie-galaxy-s25-s938-sm-s938bzkdeub-544816755--Download-Source--zoom.png",
+    "subimagenes": [
+      "https://images.samsung.com/is/image/samsung/p6pim/es/galaxy-s25/gallery/es-galaxy-s25-ultra-spen-detail.jpg",
+      "https://images.samsung.com/is/image/samsung/p6pim/es/galaxy-s25/gallery/es-galaxy-s25-ultra-titanium-gray-back.jpg",
+      "https://images.samsung.com/is/image/samsung/p6pim/es/galaxy-s25/gallery/es-galaxy-s25-ultra-camera-system.jpg"
+    ],
+    "stock": 9,
+    "rating": 4.8
+  },
+  {
+    "id": 4,
+    "categoria": "smartphone",
+    "marca": "Google",
+    "nombre": "Pixel 9 Pro",
+    "anio_lanzamiento": 2024,
+    "precio_real": 999,
+    "moneda": "USD",
+    "enlace": "https://store.google.com/",
+    "descripcion": "El Pixel 9 Pro ofrece la experiencia Android pura más avanzada con IA de Google. Su cámara computacional sigue siendo referencia mundial gracias a funciones como Magic Editor y Gemini, junto con el chip Tensor G4 optimizado para IA. Diseño premium, actualizaciones garantizadas por 7 años y excelente integración con servicios Google.",
+    "especificaciones": {
+      "chip": "Google Tensor G4 (octa-core)",
+      "pantalla": "6.3\" Super Actua LTPO OLED, 1280x2856, 1-120Hz, hasta 3000 nits peak, Gorilla Glass Victus 2",
+      "camara": "Triple: 50MP wide, 48MP ultra-wide, 48MP tele (5x), frontal 42MP",
+      "RAM": "16GB",
+      "almacenamiento": "128GB / 256GB / 512GB / 1TB",
+      "bateria": "4700mAh, carga rápida 45W cable, 23W inalámbrica",
+      "OS": "Android 15 (7 años de actualizaciones)",
+      "nota": "Líder en IA computacional y fotografía"
+    },
+    "imagen": "https://www.androidauthority.com/wp-content/uploads/2024/08/Google-Pixel-9-Pro-in-Hazel-color-held-in-persons-left-hand-with-back-facing-viewer.jpg",
+    "subimagenes": [
+      "https://lh3.googleusercontent.com/pixel-9-pro-side-profile",
+      "https://lh3.googleusercontent.com/pixel-9-pro-camera-island-detail",
+      "https://lh3.googleusercontent.com/pixel-9-pro-gemini-ai-interface"
+    ],
+    "stock": 8,
+    "rating": 4.7
+  },
+  {
+    "id": 5,
+    "categoria": "smartphone_gaming",
+    "marca": "ASUS",
+    "nombre": "ROG Phone 8",
+    "anio_lanzamiento": 2024,
+    "precio_real": 1099,
+    "moneda": "USD",
+    "enlace": "https://rog.asus.com/",
+    "descripcion": "El ROG Phone 8 es un smartphone gaming de alto rendimiento que combina potencia extrema con un diseño más delgado y portátil que generaciones anteriores. Incluye Snapdragon 8 Gen 3, pantalla AMOLED de 165Hz, gatillos AirTrigger, sistema de refrigeración avanzado y batería de larga duración con carga rápida. Perfecto para gamers móviles exigentes.",
+    "especificaciones": {
+      "chip": "Qualcomm Snapdragon 8 Gen 3 (octa-core, hasta 3.3GHz)",
+      "pantalla": "6.78\" AMOLED LTPO, 1080x2400, 165Hz, HDR10+",
+      "camara": "Triple: 50MP wide (gimbal OIS), 13MP ultra-wide, 5MP macro, frontal 32MP",
+      "RAM": "12GB / 16GB LPDDR5X",
+      "almacenamiento": "256GB / 512GB / 1TB UFS 4.0",
+      "bateria": "5500mAh, 65W cable, 15W inalámbrica",
+      "gaming": "AirTrigger, AniMe Vision LED, AeroActive Cooler (opcional)",
+      "OS": "Android 14 (hasta 2 actualizaciones mayores)"
+    },
+    "imagen": "https://rog.asus.com/media/1704440765261.jpg",
+    "subimagenes": [
+      "https://dlcdnwebimgs.asus.com/gain/rog-phone-8-ani-me-vision.jpg",
+      "https://dlcdnwebimgs.asus.com/gain/rog-phone-8-gaming-triggers.jpg",
+      "https://dlcdnwebimgs.asus.com/gain/rog-phone-8-cooling-system.jpg"
+    ],
+    "stock": 8,
+    "rating": 4.6
+  },
+  {
+    "id": 31,
+    "categoria": "smartphone_foldable",
+    "marca": "Samsung",
+    "nombre": "Galaxy Z TriFold",
+    "anio_lanzamiento": 2025,
+    "precio_real": 2000,
+    "moneda": "USD",
+    "enlace": "https://www.samsung.com/galaxy-z-trifold/",
+    "descripcion": "El Galaxy Z TriFold representa la evolución más ambiciosa de los plegables de Samsung: un dispositivo que pasa de teléfono compacto a tablet de ~10\" sin pliegues notorios visibles. Ofrece productividad extrema, multitasking avanzado y un diseño futurista. Aún en fase de expansión de disponibilidad en 2026, es una pieza de ingeniería premium.",
+    "especificaciones": {
+      "tipo": "Tri-fold inward (teléfono → tablet 10\")",
+      "pantalla_exterior": "6.5\" FHD+ Dynamic AMOLED 2X, 120Hz",
+      "pantalla_interior": "10.0\" QXGA+ Dynamic AMOLED 2X (2160x1584), 120Hz, sin pliegues notorios",
+      "chip": "Snapdragon 8 Elite for Galaxy",
+      "RAM": "16GB",
+      "almacenamiento": "512GB / 1TB",
+      "camara": "200MP wide + 12MP ultra-wide + 10MP tele (3x)",
+      "bateria": "5600mAh (tres celdas)",
+      "nota": "Lanzado diciembre 2025 en Corea, expansión global Q1 2026"
+    },
+    "imagen": "https://images.macrumors.com/t/vvS7HJa9gkTqk6eNtZFrITBZaVI=/2000x/article-new/2025/12/samsung-galaxy-trifold-back.jpg",
+    "subimagenes": [
+      "https://samsung-news.com/wp-content/uploads/2025/trifold-unfolded-view.jpg",
+      "https://samsung-news.com/wp-content/uploads/2025/trifold-z-hinge-detail.jpg",
+      "https://samsung-news.com/wp-content/uploads/2025/trifold-multitasking-demo.jpg"
+    ],
+    "stock": 5,
+    "rating": 4.5
+  },
+  {
+    "id": 32,
+    "categoria": "laptop",
+    "marca": "ASUS",
+    "nombre": "Zenbook A16",
+    "anio_lanzamiento": 2026,
+    "precio_real": 1499,
+    "moneda": "USD",
+    "enlace": "https://www.asus.com/zenbook/",
+    "descripcion": "El Zenbook A16 es uno de los highlights de CES 2026: una ultrabook ultraligera con chip Snapdragon X2 Elite Extreme, pantalla OLED vibrante y autonomía de batería excepcional. Combina portabilidad premium, rendimiento eficiente para IA y productividad diaria en un chasis elegante y moderno.",
+    "especificaciones": {
+      "chip": "Snapdragon X2 Elite Extreme (18-core, hasta 5GHz, 80 TOPS NPU)",
+      "pantalla": "16\" 3K (2880x1800) Lumina Pro OLED, 120Hz, 1100 nits peak, 100% DCI-P3",
+      "RAM": "Hasta 48GB LPDDR5X",
+      "almacenamiento": "Hasta 2TB PCIe Gen4 SSD",
+      "bateria": "Hasta 21+ horas video",
+      "peso": "1.2kg (ultraligero)",
+      "nota": "CES 2026 highlight, Ceraluminum chassis, full I/O + SD reader"
+    },
+    "imagen": "https://helios-i.mashable.com/imagery/articles/05Z9Ltqo67I0KRBQJpUZqzo/images-9.fill.size_2000x1125.v1767950069.png",
+    "subimagenes": [
+      "https://dlcdnwebimgs.asus.com/gain/zenbook-a16-thinness-profile.jpg",
+      "https://dlcdnwebimgs.asus.com/gain/zenbook-a16-oled-display.jpg",
+      "https://dlcdnwebimgs.asus.com/gain/zenbook-a16-keyboard-lighting.jpg"
+    ],
+    "stock": 3,
+    "rating": 4.8
+  },
+  {
+    "id": 14,
+    "categoria": "tablet",
+    "marca": "Apple",
+    "nombre": "iPad Pro (M-series)",
+    "anio_lanzamiento": 2024,
+    "precio_real": 1099,
+    "moneda": "USD",
+    "enlace": "https://www.apple.com/ipad-pro/",
+    "descripcion": "El iPad Pro con chip M-series (M4/M5) es la tablet más potente del mercado. Cuenta con pantalla Tandem OLED ProMotion de altísima calidad, compatibilidad total con Apple Pencil Pro y Magic Keyboard. Perfecta para artistas digitales, profesionales creativos y usuarios que buscan reemplazar una laptop en movilidad.",
+    "especificaciones": {
+      "chip": "Apple M4 (9/10-core CPU, 10-core GPU) o M5 actualizado",
+      "pantalla": "11\" o 13\" Ultra Retina XDR Tandem OLED, ProMotion 10-120Hz, hasta 1600 nits HDR",
+      "RAM": "8GB (256/512GB) / 16GB (1TB+)",
+      "almacenamiento": "256GB a 2TB",
+      "camara": "12MP wide + LiDAR, frontal 12MP Center Stage landscape",
+      "nota": "Thunderbolt/USB 4, Apple Pencil Pro, Magic Keyboard compatible"
+    },
+    "imagen": "https://www.apple.com/newsroom/images/2024/05/apple-unveils-stunning-new-ipad-pro-with-m4-chip-and-apple-pencil-pro/tile/Apple-iPad-Pro-hero-240507.jpg.og.jpg?202512190721",
+    "subimagenes": [
+      "https://www.apple.com/v/ipad-pro/ao/images/overview/accessories/pencil_pro__exu9sb6lu7ue_large.jpg",
+      "https://www.apple.com/v/ipad-pro/ao/images/overview/accessories/magic_keyboard__exu9sb6lu7ue_large.jpg",
+      "https://www.apple.com/v/ipad-pro/ao/images/overview/design/thinness__exu9sb6lu7ue_large.jpg"
+    ],
+    "stock": 19,
+    "rating": 4.9
+  },
+  {
+    "id": 18,
+    "categoria": "vr",
+    "marca": "Meta",
+    "nombre": "Meta Quest 3",
+    "anio_lanzamiento": 2023,
+    "precio_real": 499,
+    "moneda": "USD",
+    "enlace": "https://www.meta.com/quest/",
+    "descripcion": "El Meta Quest 3 sigue siendo en 2026 el headset VR/MR standalone más popular y equilibrado. Ofrece gran biblioteca de juegos y apps, realidad mixta color passthrough, rendimiento sólido y excelente relación calidad-precio. Aunque se espera el Quest 4 en 2027+, sigue siendo la mejor opción accesible para la mayoría.",
+    "especificaciones": {
+      "tipo": "Standalone VR/MR",
+      "chip": "Snapdragon XR2 Gen 2",
+      "display": "Dual LCD 2064x2208 por ojo, 120Hz max, pancake lenses",
+      "FOV": "110° horizontal, 96° vertical",
+      "RAM": "8GB",
+      "almacenamiento": "128GB / 512GB",
+      "tracking": "Inside-out 6DoF, full-color passthrough",
+      "bateria": "Hasta 2-3 horas",
+      "nota": "Top en 2026, miles de apps + Horizon OS"
+    },
+    "imagen": "https://helios-i.mashable.com/imagery/articles/05gOQMjQGjQKeAqtAEBdnQ5/hero-image.fill.size_1248x702.v1695827548.png",
+    "subimagenes": [
+      "https://about.fb.com/wp-content/uploads/2023/06/Meta-Quest-3-Controllers.jpg",
+      "https://about.fb.com/wp-content/uploads/2023/09/Meta-Quest-3-Mixed-Reality.jpg",
+      "https://about.fb.com/wp-content/uploads/2023/09/Meta-Quest-3-Charging-Dock.jpg"
+    ],
+    "stock": 14,
+    "rating": 4.7
+  },
+  {
+    "id": 33,
+    "categoria": "vr",
+    "marca": "Valve / Meta compatible",
+    "nombre": "Steam Frame",
+    "anio_lanzamiento": 2026,
+    "precio_real": 799,
+    "moneda": "USD",
+    "enlace": "https://store.steampowered.com/steamframe/",
+    "descripcion": "El Steam Frame es la gran novedad VR de 2026 presentada en CES. Un headset inalámbrico enfocado en streaming desde PC (compatible con SteamVR y ecosistema Meta), ofreciendo calidad gráfica superior a headsets standalone sin cables. Gran alternativa para usuarios de PC gaming que buscan inmersión máxima en juegos AAA.",
+    "especificaciones": {
+      "tipo": "Standalone VR inalámbrico PC-streaming (compatible Meta)",
+      "chip": "Snapdragon 8 Gen 3",
+      "display": "Dual LCD 2160x2160 por ojo, pancake lenses, hasta 144Hz",
+      "FOV": "Hasta 110°",
+      "RAM": "16GB LPDDR5X",
+      "almacenamiento": "256GB / 1TB",
+      "nota": "CES 2026 hype, Foveated Streaming, 6GHz adapter incluido, controllers tipo gamepad"
+    },
+    "imagen": "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2025/11/steam-frame-2.jpg",
+    "subimagenes": [
+      "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2025/11/steam-frame-lenses.jpg",
+      "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2025/11/steam-frame-comfort-strap.jpg",
+      "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2025/11/steam-frame-steamvr-ui.jpg"
+    ],
+    "stock": 2,
+    "rating": 4.6
+  }
+]
