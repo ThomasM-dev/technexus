@@ -26,7 +26,8 @@
       "https://sony.scene7.com/is/image/sonyglobalsolutions/wh1000xm5-earpad-comfort"
     ],
     "stock": 4,
-    "rating": 4.8
+    "rating": 4.8,
+    "promotion": "Descuento exclusivo online 8%"
   },
   {
     "id": 11,
@@ -54,7 +55,8 @@
       "https://www.apple.com/v/macbook-pro/aj/images/overview/performance/chip_m4_max__d4g88z437yau_large.jpg"
     ],
     "stock": 18,
-    "rating": 4.9
+    "rating": 4.9,
+    "promotion": "3 cuotas sin interés"
   },
   {
     "id": 1,
@@ -77,12 +79,14 @@
     },
     "imagen": "https://assets2.razerzone.com/images/pnx.assets/ce8efb94452a0b8f9d2e8dcebc9bab5c/razer-huntsman-v3-pro-tkl-ogimage-1200x630-v2.webp",
     "subimagenes": [
-      "https://example.com/razer_huntsman_v3_pro_tkl_1.jpg",
-      "https://example.com/razer_huntsman_v3_pro_tkl_2.jpg",
-      "https://example.com/razer_huntsman_v3_pro_tkl_3.jpg"
+      "https://assets2.razerzone.com/images/pnx.assets/f1594f8db5cb6eb47e655a41d26b94f0/razer-huntsman-v3-pro-tenkeyless-white-hero-desktop-2.webp",
+      "https://assets2.razerzone.com/images/pnx.assets/0b6bd7f5f88c12a31e22a39ca1a3f955/razer-huntsman-v3-pro-tkl-white-leatherette-wrist-rest-desktop.webp",
+      "https://assets2.razerzone.com/images/pnx.assets/deed743eab7622db18914354cf38bfe3/razer-huntsman-v3-pro-tkl-white-control-button-desktop.webp",
+      "https://revistayoung.es/wp-content/uploads/2024/10/Razer-Huntsman-V3-Pro-Tenkeyless-3-1024x577.jpg"
     ],
     "stock": 15,
-    "rating": 4.7
+    "rating": 4.7,
+    "promotion": "6 cuotas sin interés"
   },
   {
     "id": 2,
@@ -110,7 +114,8 @@
       "https://images.bhphotovideo.com/images/images500x500/logitech_910005469_g502_hero_gaming_mouse_4.jpg"
     ],
     "stock": 20,
-    "rating": 4.6
+    "rating": 4.6,
+    "promotion": "Cuotas sin interés + regalo sorpresa"
   },
   {
     "id": 1,
@@ -141,7 +146,8 @@
       "https://www.apple.com/v/apple-vision-pro/c/images/overview/hero/apple_vision_pro_glass__fo9u66u8u7ue_large.jpg"
     ],
     "stock": 4,
-    "rating": 4.5
+    "rating": 4.5,
+    "promotion": "10% OFF pagando al contado"
   },
   {
     "id": 29,
@@ -171,7 +177,8 @@
       "https://techradar.com/wp-content/uploads/sites/iphone-17-slim-render.jpg"
     ],
     "stock": 1,
-    "rating": 4.7
+    "rating": 4.7,
+    "promotion": "Hasta 18 cuotas sin interés"
   },
   {
     "id": 30,
@@ -201,7 +208,8 @@
       "https://images.samsung.com/is/image/samsung/p6pim/es/galaxy-s25/gallery/es-galaxy-s25-ultra-camera-system.jpg"
     ],
     "stock": 9,
-    "rating": 4.8
+    "rating": 4.8,
+    "promotion": "Hasta 18 cuotas sin interés"
   },
   {
     "id": 4,
@@ -230,7 +238,8 @@
       "https://lh3.googleusercontent.com/pixel-9-pro-gemini-ai-interface"
     ],
     "stock": 8,
-    "rating": 4.7
+    "rating": 4.7,
+    "promotion": "12 cuotas sin interés"
   },
   {
     "id": 5,
@@ -259,7 +268,8 @@
       "https://dlcdnwebimgs.asus.com/gain/rog-phone-8-cooling-system.jpg"
     ],
     "stock": 8,
-    "rating": 4.6
+    "rating": 4.6,
+    "promotion": "Cuotas sin interés + regalo sorpresa"
   },
   {
     "id": 31,
@@ -289,7 +299,8 @@
       "https://samsung-news.com/wp-content/uploads/2025/trifold-multitasking-demo.jpg"
     ],
     "stock": 5,
-    "rating": 4.5
+    "rating": 4.5,
+    "promotion": "3 cuotas sin interés"
   },
   {
     "id": 32,
@@ -317,7 +328,8 @@
       "https://dlcdnwebimgs.asus.com/gain/zenbook-a16-keyboard-lighting.jpg"
     ],
     "stock": 3,
-    "rating": 4.8
+    "rating": 4.8,
+    "promotion": "Descuento exclusivo online 8%"
   },
   {
     "id": 14,
@@ -344,7 +356,8 @@
       "https://www.apple.com/v/ipad-pro/ao/images/overview/design/thinness__exu9sb6lu7ue_large.jpg"
     ],
     "stock": 19,
-    "rating": 4.9
+    "rating": 4.9,
+    "promotion": "Cuotas sin interés + regalo sorpresa"
   },
   {
     "id": 18,
@@ -374,7 +387,8 @@
       "https://about.fb.com/wp-content/uploads/2023/09/Meta-Quest-3-Charging-Dock.jpg"
     ],
     "stock": 14,
-    "rating": 4.7
+    "rating": 4.7,
+    "promotion": "10% OFF + envío express gratis"
   },
   {
     "id": 33,
@@ -402,6 +416,7 @@
       "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2025/11/steam-frame-steamvr-ui.jpg"
     ],
     "stock": 2,
-    "rating": 4.6
+    "rating": 4.6,
+    "promotion": "Llevá 2 y pagá 1 (50% OFF en el segundo)"
   }
 ]

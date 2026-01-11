@@ -6,7 +6,7 @@ import { createChat } from "@n8n/chat";
 const ChatWidgetN8n = () => {
     useEffect(() => {
         createChat({
-            webhookUrl: "http://localhost:5678/webhook-test/7482d63c-fd5a-4f8d-b365-8743d7e8cb91",
+            webhookUrl: "",
             defaultLanguage: "es",
             initialMessages: [
                 "Mi nombre es Clario, estoy aquí para asistirte con cualquier consulta que tengas."

@@ -7,6 +7,7 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import ProductCard from '../ProductCard';
 import UserAcount from '../UserAcount';
+import { href, Link } from 'react-router-dom';
 
 function NavBar() {
     return (
@@ -21,16 +22,16 @@ function NavBar() {
 
                     <div className="d-flex justify-content-center flex-grow-1 mx-4 w-50">
                         <div className="d-flex align-items-center me-5">
-                            <Image
-                                src="/logo_sitio.png"
-                                alt="Logo"
-                                width="30"
-                                height="30"
-                                className="me-2"
-                            />
-                            <Navbar.Brand href="#" className="text-white" style={{ fontWeight: 600 }}>
-                                TechNexus
-                            </Navbar.Brand>
+                            <Link to="/" className="d-flex align-items-center text-decoration-none">
+                                <Image
+                                    src="/logo_sitio.png"
+                                    alt="Logo"
+                                    width="30"
+                                    height="30"
+                                    className="me-2"
+                                />
+                                <span className="text-white fw-bold">TechNexus</span>
+                            </Link>
                         </div>
                         <div
                             className="d-flex align-items-center px-2"
@@ -44,7 +45,7 @@ function NavBar() {
                                 marginRight: "15px"
                             }}
                         >
-                            <span className="me-2" style={{ paddingLeft: "5px" }}><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+                            <span className="me-2" style={{ paddingLeft: "5px" }}><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-search" viewBox="0 0 16 16">
                                 <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0" />
                             </svg></span>
 
