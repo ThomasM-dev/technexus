@@ -6,6 +6,9 @@ import NavBar from './components/NavBar';
 import ChatBot from './components/ChatBot';
 import ProductoDetalle from './pages/ProductoDetalle';
 import Home from './pages/Home';
+import Footer from './components/Footer';
+import Carrito from './pages/Carrito';
+import ListProducts from './pages/ListProducts';
 
 function App() {
   return (
@@ -13,7 +16,7 @@ function App() {
       <NavBar />
       <ChatBot />
 
-      <Routes>
+      {/* <Routes>
         <Route path="/" element={
           <>
             <HeroBanner />
@@ -22,7 +25,10 @@ function App() {
         } />
 
         <Route path="/producto/:nombre" element={<ProductoDetalle />} />
-      </Routes>
+        <Route path='/Carrito' element={<Carrito />} />
+      </Routes> */}
+      <ListProducts/>
+      <Footer/>
     </Router>
   );
 }

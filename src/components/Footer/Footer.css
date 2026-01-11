@@ -1,0 +1,150 @@
+.footer {
+    width: 100%;
+    background-color: #0A0A0A;
+    color: #b3b3b3;
+    font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu;
+}
+
+.footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 60px 20px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 40px;
+}
+
+@media (min-width: 768px) {
+    .footer-container {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+.footer-logo-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.footer-logo-icon {
+    width: 25px;
+    height: 25px;
+    border-radius: 12px;
+    background: #2563eb;
+}
+
+.footer-logo-text {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.footer-description {
+    max-width: 280px;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.footer-social {
+    display: flex;
+    gap: 10px;
+    margin-top: 15px;
+}
+
+.social-btn {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: #0a0a0a;
+    border: none;
+    cursor: pointer;
+}
+
+
+
+.footer-title {
+    color: #fff;
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-weight: 600;
+    margin-bottom: 12px;
+}
+
+.footer-list li a {
+    font-size: 14px;
+    text-decoration: none;
+    color: #c7c7c7;
+}
+
+.footer-list li a:hover {
+    color: #fff;
+}
+
+.footer-list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.footer-news-desc {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.newsletter-box {
+    display: flex;
+    background: #0a0a0a;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.newsletter-input {
+    flex: 1;
+    background: transparent;
+    border: none;
+    outline: none;
+    padding: 10px;
+    color: #fff;
+}
+
+.newsletter-btn {
+    padding: 10px 14px;
+    background: transparent;
+    color: #3b82f6;
+    border: none;
+    cursor: pointer;
+}
+
+.footer-bottom {
+    border-top: 1px solid #0f0f0f;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 18px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    font-size: 13px;
+}
+
+@media (min-width: 768px) {
+    .footer-bottom {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+
+.footer-links {
+    display: flex;
+    gap: 20px;
+}
+
+.footer-links a {
+    color: #c7c7c7;
+    text-decoration: none;
+}
+
+.footer-links a:hover {
+    color: #fff;
+}

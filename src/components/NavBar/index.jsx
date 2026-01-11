@@ -7,7 +7,7 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import ProductCard from '../ProductCard';
 import UserAcount from '../UserAcount';
-import { href, Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 function NavBar() {
     return (
@@ -17,9 +17,6 @@ function NavBar() {
                 <Navbar.Toggle aria-controls="navbarScroll" />
 
                 <Navbar.Collapse id="navbarScroll" className="w-100 d-flex">
-
-
-
                     <div className="d-flex justify-content-center flex-grow-1 mx-4 w-50">
                         <div className="d-flex align-items-center me-5">
                             <Link to="/" className="d-flex align-items-center text-decoration-none">
@@ -72,7 +69,9 @@ function NavBar() {
                             <Nav.Link href="#" className="text-white mx-2">Deals</Nav.Link>
 
                             <Nav.Link href="#" className="text-white mx-2">
-                                <ProductCard />
+                                <Link to="/Carrito" className="text-white text-decoration-none d-flex align-items-center">
+                                    <ProductCard />
+                                </Link>
                             </Nav.Link>
 
                             <Nav.Link href="#" className="text-white mx-2">
